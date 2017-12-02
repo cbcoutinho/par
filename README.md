@@ -1,3 +1,5 @@
+`par` is a paragraph reformatter, vaguely similar to fmt, but better.
+
 This program can be used to align text using tried-and-true text-align
 formulas best described by the following vimcast:
 
