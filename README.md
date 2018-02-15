@@ -7,7 +7,7 @@ formulas best described by the following vimcast:
 
 Build by executing:
 
-    make -f protoMakefile
+    make
 
 The original code was found at the following link, contained in
 `Par152.tar.gz`, included in this repository:
